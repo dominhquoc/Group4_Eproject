@@ -1,1 +1,1 @@
-https://github.com/dominhquoc/Group4_Eproject.git
+https://dominhquoc.github.io/Group4_Eproject/
